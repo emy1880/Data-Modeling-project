@@ -1,5 +1,5 @@
 ## Project Background
-This data modeling project aims to answer some real-world business problems about operating a traveling circus. This is not a speculative project.
+This data modeling project aims to answer some real-world business problems about operating a traveling circus. This is a real-world project.
 A traveling circus startup has discovered that they have numerous data feeds coming from various sources and would like to consolidate them into an uniform relational data model to assist in answering key business questions.
 
 ## Gaining an understanding of the nature of the business
