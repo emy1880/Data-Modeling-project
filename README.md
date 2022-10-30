@@ -1,7 +1,7 @@
 ## Project Background
 This data modeling project aims to answer some real-world business problems about operating a traveling circus. This is a real-world project.
 A traveling circus startup has discovered that they have numerous data feeds coming from various sources and would like to consolidate them into an uniform relational data model to assist in answering key business questions.
-The database table codes have been attacked to this repository as data_table_creation.sql
+The database table codes have been attacked to this repository as data_table_creation.sql. The database of choice for this prpject is Microsoft SQL Server
 
 ## Gaining an understanding of the nature of the business
 I began by sitting down and speaking with the group that hired me. I'm hoping to find answers to the following questions: 
